@@ -9,5 +9,7 @@ The Task.Parallel class provides three methods that can be used to execute task 
 -	Parallel.ForEach
 -	Parallel.For
 
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+
 
 
