@@ -46,3 +46,7 @@ The *__Task.Parallel__* can be found in the *__System.Threading.Tasks__* namespa
   });
 ```
 
+## PLINQ
+Language-Integrated Query or LINQ is used to perform queries on items.
+Parallel Language-Integrated Query or PLINQ can be used to allow elements of the query to execute in parallel.
+
