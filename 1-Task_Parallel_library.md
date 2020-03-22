@@ -1,5 +1,3 @@
-# C# Certification 70-483
-
 ## Task Parallel library
 
 The Task Parallel Library (TPL) provide a range of resources that allow you to use Tasks in an application.
