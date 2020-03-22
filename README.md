@@ -14,5 +14,9 @@ The Task.Parallel class provides three methods that can be used to execute task 
 
 The *__Task.Parallel__* can be found in the *__System.Threading.Tasks__* namespace.
 
+###  Parallel.Invoke
+
+
+
 
 
