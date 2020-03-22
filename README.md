@@ -24,7 +24,7 @@ The *__Task.Parallel__* can be found in the *__System.Threading.Tasks__* namespa
 
 ###  Parallel.ForEach
 
-> The Parallel.ForEach pefforms a parallel implementation of the forach loop.
+> The Parallel.ForEach performs a parallel implementation of the forach loop.
 
 ```
   var items = Enumerable.Range(0, 5);
@@ -34,4 +34,15 @@ The *__Task.Parallel__* can be found in the *__System.Threading.Tasks__* namespa
   });
 ```
 
+###  Parallel.For
+
+> The Parallel.For method can be used to parallelize the execution of a for loop.
+
+```
+  var items = Enumerable.Range(0, 5).ToArray();
+  Parallel.For(0, items.Length, i => 
+  {
+       WorkOnItem(items[i]);
+  });
+```
 
