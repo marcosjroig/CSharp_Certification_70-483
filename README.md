@@ -22,7 +22,16 @@ The *__Task.Parallel__* can be found in the *__System.Threading.Tasks__* namespa
  Parallel.Invoke(() => Method1(), () => Method2());
 ```
 
+###  Parallel.ForEach
 
+> The Parallel.ForEach pefforms a parallel implementation of the forach loop.
 
+```
+  var items = Enumerable.Range(0, 5);
+  Parallel.ForEach(items, item =>
+  {
+       WorkOnItem(item);
+  });
+```
 
 
