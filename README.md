@@ -16,6 +16,12 @@ The *__Task.Parallel__* can be found in the *__System.Threading.Tasks__* namespa
 
 ###  Parallel.Invoke
 
+> The Parallel.Invoke method accepts a number of Action delegates and creates a task for each of them.
+
+```
+ Parallel.Invoke(() => Method1(), () => Method2());
+```
+
 
 
 
