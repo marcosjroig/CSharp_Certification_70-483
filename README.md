@@ -12,5 +12,7 @@ The Task.Parallel class provides three methods that can be used to execute task 
 
 ![alt text](https://github.com/marcosjroig/CSharp_Certification_70-483/blob/master/1%20-%20TPL.JPG)
 
+The *__Task.Parallel__* can be found in the *__System.Threading.Tasks__* namespace.
+
 
 
