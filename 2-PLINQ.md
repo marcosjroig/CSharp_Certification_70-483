@@ -5,7 +5,7 @@
 
 #### AsParallel()
 ```
-var result1 = from person in persons.AsParallel()
+var result = from person in persons.AsParallel()
               where person.City == "Seattle"
               select person;
 ```
