@@ -1,0 +1,12 @@
+C:\Users\Marcos.Roig.GAEL\OneDrive - Sitekit Ltd\Certifications\1 - 70-483\Projects\1 - ManagingProgramFlow\ParallelLinq\ParallelLinq\bin\Debug\netcoreapp2.2\ParallelLinq.deps.json
+C:\Users\Marcos.Roig.GAEL\OneDrive - Sitekit Ltd\Certifications\1 - 70-483\Projects\1 - ManagingProgramFlow\ParallelLinq\ParallelLinq\bin\Debug\netcoreapp2.2\ParallelLinq.runtimeconfig.json
+C:\Users\Marcos.Roig.GAEL\OneDrive - Sitekit Ltd\Certifications\1 - 70-483\Projects\1 - ManagingProgramFlow\ParallelLinq\ParallelLinq\bin\Debug\netcoreapp2.2\ParallelLinq.runtimeconfig.dev.json
+C:\Users\Marcos.Roig.GAEL\OneDrive - Sitekit Ltd\Certifications\1 - 70-483\Projects\1 - ManagingProgramFlow\ParallelLinq\ParallelLinq\bin\Debug\netcoreapp2.2\ParallelLinq.dll
+C:\Users\Marcos.Roig.GAEL\OneDrive - Sitekit Ltd\Certifications\1 - 70-483\Projects\1 - ManagingProgramFlow\ParallelLinq\ParallelLinq\bin\Debug\netcoreapp2.2\ParallelLinq.pdb
+C:\Users\Marcos.Roig.GAEL\OneDrive - Sitekit Ltd\Certifications\1 - 70-483\Projects\1 - ManagingProgramFlow\ParallelLinq\ParallelLinq\obj\Debug\netcoreapp2.2\ParallelLinq.csprojAssemblyReference.cache
+C:\Users\Marcos.Roig.GAEL\OneDrive - Sitekit Ltd\Certifications\1 - 70-483\Projects\1 - ManagingProgramFlow\ParallelLinq\ParallelLinq\obj\Debug\netcoreapp2.2\ParallelLinq.csproj.CoreCompileInputs.cache
+C:\Users\Marcos.Roig.GAEL\OneDrive - Sitekit Ltd\Certifications\1 - 70-483\Projects\1 - ManagingProgramFlow\ParallelLinq\ParallelLinq\obj\Debug\netcoreapp2.2\ParallelLinq.AssemblyInfoInputs.cache
+C:\Users\Marcos.Roig.GAEL\OneDrive - Sitekit Ltd\Certifications\1 - 70-483\Projects\1 - ManagingProgramFlow\ParallelLinq\ParallelLinq\obj\Debug\netcoreapp2.2\ParallelLinq.AssemblyInfo.cs
+C:\Users\Marcos.Roig.GAEL\OneDrive - Sitekit Ltd\Certifications\1 - 70-483\Projects\1 - ManagingProgramFlow\ParallelLinq\ParallelLinq\obj\Debug\netcoreapp2.2\ParallelLinq.dll
+C:\Users\Marcos.Roig.GAEL\OneDrive - Sitekit Ltd\Certifications\1 - 70-483\Projects\1 - ManagingProgramFlow\ParallelLinq\ParallelLinq\obj\Debug\netcoreapp2.2\ParallelLinq.pdb
+C:\Users\Marcos.Roig.GAEL\OneDrive - Sitekit Ltd\Certifications\1 - 70-483\Projects\1 - ManagingProgramFlow\ParallelLinq\ParallelLinq\obj\Debug\netcoreapp2.2\ParallelLinq.genruntimeconfig.cache

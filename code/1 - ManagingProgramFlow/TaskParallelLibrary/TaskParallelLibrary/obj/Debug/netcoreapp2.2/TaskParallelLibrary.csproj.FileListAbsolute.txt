@@ -1,0 +1,12 @@
+C:\Users\Marcos.Roig.GAEL\OneDrive - Sitekit Ltd\Certifications\1 - 70-483\Projects\1 - ManagingProgramFlow\TaskParallelLibrary\TaskParallelLibrary\bin\Debug\netcoreapp2.2\TaskParallelLibrary.deps.json
+C:\Users\Marcos.Roig.GAEL\OneDrive - Sitekit Ltd\Certifications\1 - 70-483\Projects\1 - ManagingProgramFlow\TaskParallelLibrary\TaskParallelLibrary\bin\Debug\netcoreapp2.2\TaskParallelLibrary.runtimeconfig.json
+C:\Users\Marcos.Roig.GAEL\OneDrive - Sitekit Ltd\Certifications\1 - 70-483\Projects\1 - ManagingProgramFlow\TaskParallelLibrary\TaskParallelLibrary\bin\Debug\netcoreapp2.2\TaskParallelLibrary.runtimeconfig.dev.json
+C:\Users\Marcos.Roig.GAEL\OneDrive - Sitekit Ltd\Certifications\1 - 70-483\Projects\1 - ManagingProgramFlow\TaskParallelLibrary\TaskParallelLibrary\bin\Debug\netcoreapp2.2\TaskParallelLibrary.dll
+C:\Users\Marcos.Roig.GAEL\OneDrive - Sitekit Ltd\Certifications\1 - 70-483\Projects\1 - ManagingProgramFlow\TaskParallelLibrary\TaskParallelLibrary\bin\Debug\netcoreapp2.2\TaskParallelLibrary.pdb
+C:\Users\Marcos.Roig.GAEL\OneDrive - Sitekit Ltd\Certifications\1 - 70-483\Projects\1 - ManagingProgramFlow\TaskParallelLibrary\TaskParallelLibrary\obj\Debug\netcoreapp2.2\TaskParallelLibrary.csprojAssemblyReference.cache
+C:\Users\Marcos.Roig.GAEL\OneDrive - Sitekit Ltd\Certifications\1 - 70-483\Projects\1 - ManagingProgramFlow\TaskParallelLibrary\TaskParallelLibrary\obj\Debug\netcoreapp2.2\TaskParallelLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Marcos.Roig.GAEL\OneDrive - Sitekit Ltd\Certifications\1 - 70-483\Projects\1 - ManagingProgramFlow\TaskParallelLibrary\TaskParallelLibrary\obj\Debug\netcoreapp2.2\TaskParallelLibrary.AssemblyInfoInputs.cache
+C:\Users\Marcos.Roig.GAEL\OneDrive - Sitekit Ltd\Certifications\1 - 70-483\Projects\1 - ManagingProgramFlow\TaskParallelLibrary\TaskParallelLibrary\obj\Debug\netcoreapp2.2\TaskParallelLibrary.AssemblyInfo.cs
+C:\Users\Marcos.Roig.GAEL\OneDrive - Sitekit Ltd\Certifications\1 - 70-483\Projects\1 - ManagingProgramFlow\TaskParallelLibrary\TaskParallelLibrary\obj\Debug\netcoreapp2.2\TaskParallelLibrary.dll
+C:\Users\Marcos.Roig.GAEL\OneDrive - Sitekit Ltd\Certifications\1 - 70-483\Projects\1 - ManagingProgramFlow\TaskParallelLibrary\TaskParallelLibrary\obj\Debug\netcoreapp2.2\TaskParallelLibrary.pdb
+C:\Users\Marcos.Roig.GAEL\OneDrive - Sitekit Ltd\Certifications\1 - 70-483\Projects\1 - ManagingProgramFlow\TaskParallelLibrary\TaskParallelLibrary\obj\Debug\netcoreapp2.2\TaskParallelLibrary.genruntimeconfig.cache

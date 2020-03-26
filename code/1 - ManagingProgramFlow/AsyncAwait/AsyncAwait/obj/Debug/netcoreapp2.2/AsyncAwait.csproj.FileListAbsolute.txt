@@ -1,0 +1,11 @@
+C:\Users\Marcos.Roig.GAEL\OneDrive - Sitekit Ltd\Certifications\1 - 70-483\Projects\1 - ManagingProgramFlow\AsyncAwait\AsyncAwait\bin\Debug\netcoreapp2.2\AsyncAwait.deps.json
+C:\Users\Marcos.Roig.GAEL\OneDrive - Sitekit Ltd\Certifications\1 - 70-483\Projects\1 - ManagingProgramFlow\AsyncAwait\AsyncAwait\bin\Debug\netcoreapp2.2\AsyncAwait.runtimeconfig.json
+C:\Users\Marcos.Roig.GAEL\OneDrive - Sitekit Ltd\Certifications\1 - 70-483\Projects\1 - ManagingProgramFlow\AsyncAwait\AsyncAwait\bin\Debug\netcoreapp2.2\AsyncAwait.runtimeconfig.dev.json
+C:\Users\Marcos.Roig.GAEL\OneDrive - Sitekit Ltd\Certifications\1 - 70-483\Projects\1 - ManagingProgramFlow\AsyncAwait\AsyncAwait\bin\Debug\netcoreapp2.2\AsyncAwait.dll
+C:\Users\Marcos.Roig.GAEL\OneDrive - Sitekit Ltd\Certifications\1 - 70-483\Projects\1 - ManagingProgramFlow\AsyncAwait\AsyncAwait\bin\Debug\netcoreapp2.2\AsyncAwait.pdb
+C:\Users\Marcos.Roig.GAEL\OneDrive - Sitekit Ltd\Certifications\1 - 70-483\Projects\1 - ManagingProgramFlow\AsyncAwait\AsyncAwait\obj\Debug\netcoreapp2.2\AsyncAwait.csprojAssemblyReference.cache
+C:\Users\Marcos.Roig.GAEL\OneDrive - Sitekit Ltd\Certifications\1 - 70-483\Projects\1 - ManagingProgramFlow\AsyncAwait\AsyncAwait\obj\Debug\netcoreapp2.2\AsyncAwait.csproj.CoreCompileInputs.cache
+C:\Users\Marcos.Roig.GAEL\OneDrive - Sitekit Ltd\Certifications\1 - 70-483\Projects\1 - ManagingProgramFlow\AsyncAwait\AsyncAwait\obj\Debug\netcoreapp2.2\AsyncAwait.AssemblyInfoInputs.cache
+C:\Users\Marcos.Roig.GAEL\OneDrive - Sitekit Ltd\Certifications\1 - 70-483\Projects\1 - ManagingProgramFlow\AsyncAwait\AsyncAwait\obj\Debug\netcoreapp2.2\AsyncAwait.AssemblyInfo.cs
+C:\Users\Marcos.Roig.GAEL\OneDrive - Sitekit Ltd\Certifications\1 - 70-483\Projects\1 - ManagingProgramFlow\AsyncAwait\AsyncAwait\obj\Debug\netcoreapp2.2\AsyncAwait.dll
+C:\Users\Marcos.Roig.GAEL\OneDrive - Sitekit Ltd\Certifications\1 - 70-483\Projects\1 - ManagingProgramFlow\AsyncAwait\AsyncAwait\obj\Debug\netcoreapp2.2\AsyncAwait.pdb
