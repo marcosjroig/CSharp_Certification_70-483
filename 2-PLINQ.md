@@ -24,3 +24,12 @@ var result = from person in persons.AsParallel().
 ```
 
 The previous code enforce the parallelization with the query execution of a maximum of four processors.
+
+A non-parallel query produces output data that has the same order as the input data. A parallel query, however, may produce data in a different order from the input data.
+
+#### Using AsOrdered to preserve data ordering
+```
+var result = from person in persons.AsParallel().AsOrdered()
+             where person.City == "Seattle"
+             select person;
+```
