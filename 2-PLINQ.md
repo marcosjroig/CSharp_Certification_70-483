@@ -51,3 +51,16 @@ The AsSequential method can be used when there are parts of the query that need 
                 }).AsSequential().Take(4);
 ```
 The previous example shows one scenario in which AsSequential is required to preserve the ordering that was established in a previous clause of the query.
+
+#### ForAll
+```
+  var result = from person in persons.AsParallel()
+                where person.City == "Seattle"
+                select person;
+  
+  result.ForAll(person => Console.WriteLine(person.Name)); //It start before the query completes
+```
+
+The ForAll method can be used when there is a situation that we want to start reading the result of the query before it finishes giving all the result.
+
+         
