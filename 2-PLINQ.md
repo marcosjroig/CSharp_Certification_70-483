@@ -33,3 +33,7 @@ var result = from person in persons.AsParallel().AsOrdered()
              where person.City == "Seattle"
              select person;
 ```
+The AsOrdered doesn't prevent the parallelization, insted it organizes the output so that it is in the same order as the original data. 
+
+This can slow down the query.
+
