@@ -35,5 +35,19 @@ var result = from person in persons.AsParallel().AsOrdered()
 ```
 The AsOrdered doesn't prevent the parallelization, insted it organizes the output so that it is in the same order as the original data. 
 
-This can slow down the query.
+This can slow down the query and for complex queries may remove the ordering.
+
+#### Execution of the query using AsSequencial
+
+The AsSequential method can be used when there are parts of the query that need to be executed in sequence.
+
+```
+ var result = (from person in persons.AsParallel()
+                where person.City == "Seattle"
+                orderby (person.Name)
+                select new Person
+                {
+                   Name = person.Name
+                }).AsSequential().Take(4);
+```
 
