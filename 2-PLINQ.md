@@ -61,6 +61,6 @@ The previous example shows one scenario in which AsSequential is required to pre
   result.ForAll(person => Console.WriteLine(person.Name)); //It start before the query completes
 ```
 
-The ForAll method can be used when there is a situation that we want to start reading the result of the query before it finishes giving all the result.
+The ForAll method can be used when there is a situation that we want to start reading the result of the query before it finishes giving all the results.
 
          
