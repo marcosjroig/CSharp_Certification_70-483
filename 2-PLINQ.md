@@ -3,10 +3,11 @@
 - Language-Integrated Query or LINQ is used to perform queries on items of data in C#.
 - Parallel Language-Integrated Query or PLINQ can be used to allow elements of the query to execute in parallel.
 
+### AsParallel()
 ```
-  var result = from person in people.AsParallel()
-               where person.City == "Seattle"
-               select person; 
+var result1 = from person in persons.AsParallel()
+              where person.City == "Seattle"
+              select person;
 ```
 
 The AsParallel method examines the query to determine if using a parallel version would speed it up.
