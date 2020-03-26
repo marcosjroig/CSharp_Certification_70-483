@@ -50,4 +50,4 @@ The AsSequential method can be used when there are parts of the query that need 
                    Name = person.Name
                 }).AsSequential().Take(4);
 ```
-
+The previous example shows one scenario in which AsSequential is required to preserve the ordering that was established in a previous clause of the query.
